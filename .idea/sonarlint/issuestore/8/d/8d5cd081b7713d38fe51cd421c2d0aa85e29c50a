@@ -1,0 +1,14 @@
+
+M
+java:S6856"0Bind path variable "page" to a method parameter.(½«¤´8£¢Í†à1
+H
+java:S1452)"&Remove usage of generic wildcard type.(þíÞˆþÿÿÿÿ8¨¢Í†à1
+]	java:S125$"<This block of commented-out lines of code should be removed.(—ß½³ûÿÿÿÿ8ëðÒ†à1
+C
+java:S14523"&Remove usage of generic wildcard type.(ÿ²ß8«¢Í†à1
+S
+java:S1128"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ûúÄ®8ÌÙ÷â1
+Y
+java:S1128"7Remove this unused import 'org.apache.coyote.Response'.(˜ÊŠþÿÿÿÿ8ÍÙ÷â1
+c
+java:S1128	"ARemove this unused import 'org.springframework.data.domain.Page'.(˜âŽŽüÿÿÿÿ8ÎÙ÷â1
